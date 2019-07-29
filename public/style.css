@@ -1,0 +1,64 @@
+*{
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4rem;
+}
+
+h2 {
+    text-align: center;
+    font-size: 4rem;
+}
+
+form {
+    text-align: center;
+    font-size: 4rem;
+}
+
+body {
+    padding: 180px;
+}
+
+input[type="text"] {
+    padding: 9px;
+}
+
+button {
+    padding: 15px;
+
+}
+
+li.message {
+    text-align: center;
+}
+
+span {
+    font-size: 2rem;
+    width: 40%;
+    text-align: center;
+}
+
+
+.leftSec  {
+  width: 50%;
+  height: 300px;
+  border: 2px solid black;
+  float:  left;
+}
+
+.rightSec  {
+  width: 50%;
+  height: 300px;
+  border: 2px solid black;
+  float: left;
+}
+
+.userInput {
+    margin-left: 80px;
+}
